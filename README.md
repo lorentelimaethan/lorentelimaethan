@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ethan Lorente
 
-<!--
-**lorentelimaethan/lorentelimaethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java backend developer based in Barcelona. I build REST APIs with Spring Boot and contribute fixes to open-source Java projects.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [After — private events backend](https://github.com/lorentelimaethan/after-backend)
+
+A Java 21 / Spring Boot API for organizing private events. It covers accounts, events, invitations and attendance, with host-controlled actions.
+
+- **Security:** stateless JWT authentication, role-based method permissions and ownership checks.
+- **Data and API:** Spring Data JPA with MySQL; OpenAPI documentation.
+- **Quality:** JUnit 5, Mockito and MockMvc tests, including in-memory HSQLDB integration tests; GitHub Actions CI.
+- **Try it:** setup and API instructions are in the [project README](https://github.com/lorentelimaethan/after-backend#readme).
+
+### Open-source contributions to [OmniTrustILM Core](https://github.com/OmniTrustILM/core)
+
+- [PR #2576 — workflow approval status evaluation](https://github.com/OmniTrustILM/core/pull/2576) · merged
+- [PR #2556 — scheduled job error handling](https://github.com/OmniTrustILM/core/pull/2556) · merged
+
+## Stack
+
+Java 21 · Spring Boot · Spring Security · REST APIs · Spring Data JPA · MySQL · JUnit 5 · Mockito · MockMvc · Maven · GitHub Actions
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ethan-lorente-lima-6a58b2413) · [Portfolio](https://portfolio-showcase-portfolio-seven.vercel.app/)
