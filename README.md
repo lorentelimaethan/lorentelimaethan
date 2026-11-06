@@ -17,6 +17,7 @@ A Java 21 / Spring Boot API for organizing private events. It covers accounts, e
 
 - [PR #2576 — workflow approval status evaluation](https://github.com/OmniTrustILM/core/pull/2576) · merged
 - [PR #2556 — scheduled job error handling](https://github.com/OmniTrustILM/core/pull/2556) · merged
+- [PR #2633 — certificate relationship workflow conditions](https://github.com/OmniTrustILM/core/pull/2633) · merged
 
 ## Stack
 
